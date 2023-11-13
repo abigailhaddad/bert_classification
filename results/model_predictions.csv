@@ -1,0 +1,61 @@
+text,test_or_train,real_label,model_label,probability_class_0,probability_class_1
+"Greek Salad: Combine cucumber, tomato, onion, feta, olives.",train,0,0,0.99955577,0.0004441959
+Lawyer: Represents clients in legal matters.,train,1,1,0.0003616531,0.9996383
+"French Toast: Dip bread in egg mixture, cook until golden.",train,0,0,0.9995654,0.0004345588
+Web Developer: Builds and maintains websites.,train,1,1,0.0003622779,0.9996377
+Salesperson: Sells products and negotiates contracts.,train,1,1,0.000359768,0.9996402
+"Grilled Cheese: Butter bread, add cheese, grill until golden.",train,0,0,0.999564,0.0004359656
+"Chili: Cook meat, beans, tomatoes, spices, simmer.",train,0,0,0.9995529,0.0004470957
+Fitness Trainer: Leads exercise sessions and advises clients.,train,1,1,0.00036700373,0.99963295
+Accountant: Manages financial records and tax filings.,train,1,1,0.00034753743,0.9996525
+"Hummus: Blend chickpeas, tahini, lemon, garlic, serve with veggies.",train,0,0,0.9995541,0.00044584612
+Electrician: Installs and repairs electrical systems.,train,1,1,0.0003564743,0.99964356
+Graphic Designer: Creates visual content using software.,train,1,1,0.0003695819,0.99963045
+"Mac and Cheese: Cook pasta, stir in cheese sauce.",train,0,0,0.99955374,0.00044618367
+Nutritionist: Advises on diet and food choices.,train,1,1,0.00038283985,0.9996171
+Translator: Converts written text between languages.,train,1,1,0.0003631545,0.9996369
+Photographer: Takes and edits photographs.,train,1,1,0.00037926482,0.9996207
+Cashier: Handles cash transactions and customer service.,train,1,1,0.00036578465,0.99963415
+"Fruit Salad: Chop fruit, toss with juice, chill.",train,0,0,0.9995608,0.00043927162
+Mechanic: Diagnoses and repairs vehicles.,train,1,1,0.0003533306,0.99964666
+"Salsa: Dice tomatoes, onions, peppers, mix with lime and cilantro.",train,0,0,0.99955255,0.00044740815
+"BLT Sandwich: Layer bacon, lettuce, tomato, and mayo on bread.",train,0,0,0.9995591,0.00044084692
+Pharmacist: Dispenses medication and advises on drug therapy.,train,1,1,0.00036335687,0.99963665
+Security Guard: Protects property and maintains safety.,train,1,1,0.00036278128,0.99963725
+Librarian: Manages library resources and assists patrons.,train,1,1,0.00035031195,0.99964964
+Tuna Salad: Mix canned tuna with mayo and celery.,train,0,0,0.9995493,0.000450614
+"Mug Cake: Mix ingredients in mug, microwave for 90 seconds.",train,0,0,0.9995579,0.00044209688
+"Egg Salad: Chop boiled eggs, mix with mayo, mustard, spices.",train,0,0,0.99956125,0.000438701
+Teacher: Educates students and prepares lesson plans.,train,1,1,0.00034917632,0.99965084
+Customer Service Rep: Assists customers and resolves issues.,train,1,1,0.00037426574,0.9996257
+"Garlic Bread: Spread garlic butter on bread, bake until crisp.",train,0,0,0.9995658,0.00043417868
+"Popcorn: Pop kernels, add butter and salt.",train,0,0,0.99955577,0.00044424357
+"Baked Potato: Pierce potato, bake, and add toppings.",train,0,0,0.99955803,0.00044197554
+Architect: Designs buildings and oversees construction.,train,1,1,0.00034920062,0.99965084
+"Stir Fry: Sauté veggies and protein, add sauce, serve over rice.",train,0,0,0.9995664,0.00043363567
+Dentist: Diagnoses and treats oral health issues.,train,1,1,0.00036996944,0.99963
+"Real Estate Agent: Helps clients buy, sell, and rent properties.",train,1,1,0.000380426,0.9996196
+"Smoothie: Blend fruit, yogurt, and ice until smooth.",train,0,0,0.9995521,0.00044786365
+"Tomato Soup: Blend canned tomatoes, broth, season, and simmer.",train,0,0,0.99956185,0.00043816568
+"Quesadilla: Fill tortilla with cheese, fold, and grill.",train,0,0,0.9995529,0.00044704368
+Software Developer: Writes and tests computer code.,train,1,1,0.00035670566,0.9996433
+Engineer: Solves problems using scientific principles.,train,1,1,0.00035782205,0.99964213
+Veterinarian: Provides medical care to animals.,train,1,1,0.0003647639,0.9996352
+"Nachos: Layer chips, cheese, beans, bake, add toppings.",train,0,0,0.9995534,0.00044660713
+Journalist: Reports news and conducts interviews.,train,1,1,0.00035088253,0.99964917
+"Bruschetta: Top sliced bread with tomato mixture, broil.",train,0,0,0.99955994,0.00044001188
+"Pasta Salad: Cook pasta, mix with veggies and dressing.",train,0,0,0.9995647,0.00043525323
+Carpenter: Constructs and repairs building frameworks.,train,1,1,0.00035865296,0.9996413
+"Sliders: Form small patties, grill, serve on mini buns.",train,0,0,0.9995388,0.00046126827
+"Pesto Pasta: Cook pasta, mix with pesto sauce.",test,0,0,0.9995603,0.00043967355
+"Caprese Salad: Layer tomato, mozzarella, basil, drizzle balsamic.",test,0,0,0.999559,0.0004410509
+"Guacamole: Mash avocados, mix with onion, tomato, lime.",test,0,0,0.9995567,0.00044322223
+"Pancakes: Mix batter, pour on griddle, flip when bubbly.",test,0,0,0.9995584,0.00044155354
+"Cereal: Pour cereal in bowl, add milk.",test,0,0,0.999559,0.00044101555
+Nurse: Provides patient care and administers medication.,test,1,1,0.00036116366,0.9996388
+Plumber: Installs and maintains water systems.,test,1,1,0.0003608679,0.99963915
+Bartender: Mixes drinks and manages bar area.,test,1,1,0.00036792282,0.9996321
+"Avocado Toast: Mash avocado, spread on toast, add toppings.",test,0,0,0.9995683,0.0004316498
+Pilot: Operates aircraft and navigates flights.,test,1,1,0.00035575082,0.9996443
+Chef: Prepares meals and designs menus.,test,1,1,0.0003650418,0.999635
+"Omelette: Whisk eggs, pour into pan, fill, and fold.",test,0,0,0.9995591,0.00044087894
